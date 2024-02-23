@@ -1,0 +1,27 @@
+.AA{display: flex;background-color:#86A789;height:120px ;width: 100%;}
+.AAA{width: 10vb ;margin-top: 40px;  }
+.AAB{ width:100vb ;margin-top: 30px;}
+.AAC{display: flex; margin-left: 250px;margin-right: 0px;font-size: 20px; text-size-adjust: 10px;}
+
+
+.B{display: flex;height: 60vh;width: 100%;margin:100px ;}
+.BA{ width:40% }
+.BAA{color: rgb(6, 6, 241);font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: 2ch;}
+.BAB{font-size: 20px;
+
+}
+.BB{ width: 60%;}
+
+
+.C{ height: 100px; background-color: #B2C8BA;text-align: center;font-size: 25px;padding:1px}
+
+.D{ display: flex;height: 60vh;width: 100%; margin:100px ;}
+.DA{ width: 60%;}
+.DB{ width:40% ; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: 3ch; margin-right: 150px ;text-align: center;padding-bottom: 100px;}
+
+
+.E{ display: flex;height: 60vh;width: 100%; margin:100px ;}
+.EA{ width:40% ; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: 3ch; margin-right: 150px ;text-align: center;padding-top: 100px;}
+.EB{width: 60%;}
+
+.F{ height: 60px;background-color: #B2C8BA ;text-align: center;}
